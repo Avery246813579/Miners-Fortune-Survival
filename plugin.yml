@@ -1,0 +1,9 @@
+name: TactionsSurvival
+main: me.avery246813579.survival.Survival
+version: 1.0.0
+depend: [MinersFortune]
+commands:
+  town:
+    description: Used for taction commands.
+  t:
+    description: Used for taction commands.
